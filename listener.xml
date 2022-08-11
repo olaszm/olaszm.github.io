@@ -4,14 +4,13 @@
         <description><![CDATA[Listen Later PodSync]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Aug 2022 23:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 23:47:01 GMT</lastBuildDate>
         <atom:link href="undefinedlistener" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Deans List - Dear Professor]]></title>
             <link>https://www.youtube.com/watch?v=ZZen9Q01Ung</link>
             <guid isPermaLink="false">ZZen9Q01Ung</guid>
-            <pubDate>Thu, 11 Aug 2022 23:02:36 GMT</pubDate>
-            <itunes:author>Me</itunes:author>
+            <pubDate>Thu, 11 Aug 2022 23:47:01 GMT</pubDate>
             <itunes:subtitle>The Deans List - Dear Professor</itunes:subtitle>
             <itunes:image></itunes:image>
             <itunes:duration>2:33</itunes:duration>
@@ -20,8 +19,7 @@
             <title><![CDATA[Cam Meekins - Sometimes]]></title>
             <link>https://www.youtube.com/watch?v=QulBAuEX_Og</link>
             <guid isPermaLink="false">QulBAuEX_Og</guid>
-            <pubDate>Thu, 11 Aug 2022 23:02:36 GMT</pubDate>
-            <itunes:author>Me</itunes:author>
+            <pubDate>Thu, 11 Aug 2022 23:47:01 GMT</pubDate>
             <itunes:subtitle>Cam Meekins - Sometimes</itunes:subtitle>
             <itunes:image></itunes:image>
             <itunes:duration>4:01</itunes:duration>
@@ -30,8 +28,7 @@
             <title><![CDATA[Macklemore - Wings]]></title>
             <link>https://www.youtube.com/watch?v=g83_arUbsUo</link>
             <guid isPermaLink="false">g83_arUbsUo</guid>
-            <pubDate>Thu, 11 Aug 2022 23:02:36 GMT</pubDate>
-            <itunes:author>Me</itunes:author>
+            <pubDate>Thu, 11 Aug 2022 23:47:01 GMT</pubDate>
             <itunes:subtitle>Macklemore - Wings</itunes:subtitle>
             <itunes:image></itunes:image>
             <itunes:duration>5:33</itunes:duration>
@@ -40,8 +37,7 @@
             <title><![CDATA[Moosh & Twist - Hold It Down (Official Music Video)]]></title>
             <link>https://www.youtube.com/watch?v=wBZ2m_QyhoI</link>
             <guid isPermaLink="false">wBZ2m_QyhoI</guid>
-            <pubDate>Thu, 11 Aug 2022 23:02:36 GMT</pubDate>
-            <itunes:author>Me</itunes:author>
+            <pubDate>Thu, 11 Aug 2022 23:47:01 GMT</pubDate>
             <itunes:subtitle>Moosh &amp; Twist - Hold It Down (Official Music Video)</itunes:subtitle>
             <itunes:image></itunes:image>
             <itunes:duration>4:25</itunes:duration>
@@ -50,8 +46,7 @@
             <title><![CDATA[Rizzle Kicks - Down With The Trumpets]]></title>
             <link>https://www.youtube.com/watch?v=8ip8OsExLJs</link>
             <guid isPermaLink="false">8ip8OsExLJs</guid>
-            <pubDate>Thu, 11 Aug 2022 23:02:36 GMT</pubDate>
-            <itunes:author>Me</itunes:author>
+            <pubDate>Thu, 11 Aug 2022 23:47:01 GMT</pubDate>
             <itunes:subtitle>Rizzle Kicks - Down With The Trumpets</itunes:subtitle>
             <itunes:image></itunes:image>
             <itunes:duration>3:21</itunes:duration>
@@ -60,8 +55,7 @@
             <title><![CDATA[YONAS - Pumped Up Kicks (Official Video)]]></title>
             <link>https://www.youtube.com/watch?v=MthoZXOdz84</link>
             <guid isPermaLink="false">MthoZXOdz84</guid>
-            <pubDate>Thu, 11 Aug 2022 23:02:36 GMT</pubDate>
-            <itunes:author>Me</itunes:author>
+            <pubDate>Thu, 11 Aug 2022 23:47:01 GMT</pubDate>
             <itunes:subtitle>YONAS - Pumped Up Kicks (Official Video)</itunes:subtitle>
             <itunes:image></itunes:image>
             <itunes:duration>2:54</itunes:duration>
@@ -70,8 +64,7 @@
             <title><![CDATA[Wilderness Crew - The Push]]></title>
             <link>https://www.youtube.com/watch?v=na-QtBSmesU</link>
             <guid isPermaLink="false">na-QtBSmesU</guid>
-            <pubDate>Thu, 11 Aug 2022 23:02:36 GMT</pubDate>
-            <itunes:author>Me</itunes:author>
+            <pubDate>Thu, 11 Aug 2022 23:47:01 GMT</pubDate>
             <itunes:subtitle>Wilderness Crew - The Push</itunes:subtitle>
             <itunes:image></itunes:image>
             <itunes:duration>4:09</itunes:duration>
