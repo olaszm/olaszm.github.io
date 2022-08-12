@@ -4,13 +4,13 @@
         <description><![CDATA[Listen Later PodSync]]></description>
         <link>https://olaszm.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Aug 2022 16:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 17:00:52 GMT</lastBuildDate>
         <atom:link href="https://olaszm.github.io/listener" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Preventing the Collapse of Civilization / Jonathan Blow (Thekla, Inc)]]></title>
             <link>https://www.youtube.com/watch?v=ZSRHeXYDLko</link>
             <guid isPermaLink="false">ZSRHeXYDLko</guid>
-            <pubDate>Fri, 12 Aug 2022 16:33:03 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 17:00:52 GMT</pubDate>
             <enclosure url="https://olaszm.github.io/downloads/ZSRHeXYDLko.mp3" length="0" type="audio/mpeg"/>
         </item>
     </channel>
