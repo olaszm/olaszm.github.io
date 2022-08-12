@@ -2,58 +2,58 @@
     <channel>
         <title><![CDATA[Listen Later PodSync]]></title>
         <description><![CDATA[Listen Later PodSync]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://olaszm.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Aug 2022 00:09:09 GMT</lastBuildDate>
-        <atom:link href="undefinedlistener" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Aug 2022 00:20:30 GMT</lastBuildDate>
+        <atom:link href="https://olaszm.github.io/listener" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Deans List - Dear Professor]]></title>
             <link>https://www.youtube.com/watch?v=ZZen9Q01Ung</link>
             <guid isPermaLink="false">ZZen9Q01Ung</guid>
-            <pubDate>Fri, 12 Aug 2022 00:09:09 GMT</pubDate>
-            <enclosure url="undefineddownloads/ZZen9Q01Ung.mp3" length="0" type="audio/mpeg"/>
+            <pubDate>Fri, 12 Aug 2022 00:20:30 GMT</pubDate>
+            <enclosure url="https://olaszm.github.io/downloads/ZZen9Q01Ung.mp3" length="0" type="audio/mpeg"/>
         </item>
         <item>
             <title><![CDATA[Cam Meekins - Sometimes]]></title>
             <link>https://www.youtube.com/watch?v=QulBAuEX_Og</link>
             <guid isPermaLink="false">QulBAuEX_Og</guid>
-            <pubDate>Fri, 12 Aug 2022 00:09:09 GMT</pubDate>
-            <enclosure url="undefineddownloads/QulBAuEX_Og.mp3" length="0" type="audio/mpeg"/>
+            <pubDate>Fri, 12 Aug 2022 00:20:30 GMT</pubDate>
+            <enclosure url="https://olaszm.github.io/downloads/QulBAuEX_Og.mp3" length="0" type="audio/mpeg"/>
         </item>
         <item>
             <title><![CDATA[Macklemore - Wings]]></title>
             <link>https://www.youtube.com/watch?v=g83_arUbsUo</link>
             <guid isPermaLink="false">g83_arUbsUo</guid>
-            <pubDate>Fri, 12 Aug 2022 00:09:09 GMT</pubDate>
-            <enclosure url="undefineddownloads/g83_arUbsUo.mp3" length="0" type="audio/mpeg"/>
+            <pubDate>Fri, 12 Aug 2022 00:20:30 GMT</pubDate>
+            <enclosure url="https://olaszm.github.io/downloads/g83_arUbsUo.mp3" length="0" type="audio/mpeg"/>
         </item>
         <item>
             <title><![CDATA[Moosh & Twist - Hold It Down (Official Music Video)]]></title>
             <link>https://www.youtube.com/watch?v=wBZ2m_QyhoI</link>
             <guid isPermaLink="false">wBZ2m_QyhoI</guid>
-            <pubDate>Fri, 12 Aug 2022 00:09:09 GMT</pubDate>
-            <enclosure url="undefineddownloads/wBZ2m_QyhoI.mp3" length="0" type="audio/mpeg"/>
+            <pubDate>Fri, 12 Aug 2022 00:20:30 GMT</pubDate>
+            <enclosure url="https://olaszm.github.io/downloads/wBZ2m_QyhoI.mp3" length="0" type="audio/mpeg"/>
         </item>
         <item>
             <title><![CDATA[Rizzle Kicks - Down With The Trumpets]]></title>
             <link>https://www.youtube.com/watch?v=8ip8OsExLJs</link>
             <guid isPermaLink="false">8ip8OsExLJs</guid>
-            <pubDate>Fri, 12 Aug 2022 00:09:09 GMT</pubDate>
-            <enclosure url="undefineddownloads/8ip8OsExLJs.mp3" length="0" type="audio/mpeg"/>
+            <pubDate>Fri, 12 Aug 2022 00:20:30 GMT</pubDate>
+            <enclosure url="https://olaszm.github.io/downloads/8ip8OsExLJs.mp3" length="0" type="audio/mpeg"/>
         </item>
         <item>
             <title><![CDATA[YONAS - Pumped Up Kicks (Official Video)]]></title>
             <link>https://www.youtube.com/watch?v=MthoZXOdz84</link>
             <guid isPermaLink="false">MthoZXOdz84</guid>
-            <pubDate>Fri, 12 Aug 2022 00:09:09 GMT</pubDate>
-            <enclosure url="undefineddownloads/MthoZXOdz84.mp3" length="0" type="audio/mpeg"/>
+            <pubDate>Fri, 12 Aug 2022 00:20:30 GMT</pubDate>
+            <enclosure url="https://olaszm.github.io/downloads/MthoZXOdz84.mp3" length="0" type="audio/mpeg"/>
         </item>
         <item>
             <title><![CDATA[Wilderness Crew - The Push]]></title>
             <link>https://www.youtube.com/watch?v=na-QtBSmesU</link>
             <guid isPermaLink="false">na-QtBSmesU</guid>
-            <pubDate>Fri, 12 Aug 2022 00:09:09 GMT</pubDate>
-            <enclosure url="undefineddownloads/na-QtBSmesU.mp3" length="0" type="audio/mpeg"/>
+            <pubDate>Fri, 12 Aug 2022 00:20:30 GMT</pubDate>
+            <enclosure url="https://olaszm.github.io/downloads/na-QtBSmesU.mp3" length="0" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>
